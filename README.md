@@ -18,7 +18,10 @@ Procedimento Utilizado
 Acesse Caça Avançada (Advanced Hunting) no portal do Defender.
 ## Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
 
-!(https://raw.githubusercontent.com/brunomiller88/remediacao-em-massa-viaKQL/main/busca%20avan%C3%A7ada001.png)
+## Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
+
+![Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender](https://raw.githubusercontent.com/brunomiller88/remediacao-em-massa-viaKQL/main/busca%20avan%C3%A7ada001.png)
+
 
 
 Execute sua consulta em KQL, conforme o objetivo da análise.
@@ -47,6 +50,11 @@ Iniciar um Full Scan
 Coletar pacote de investigação
 
 Revise a ação, defina um nome e uma descrição para auditoria e rastreabilidade.
+
+## Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
+
+![Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender](https://raw.githubusercontent.com/brunomiller88/remediacao-em-massa-viaKQL/main/busca%20avan%C3%A7ada004.png)
+
 
 Confirme a execução.
 
