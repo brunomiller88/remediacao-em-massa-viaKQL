@@ -1,4 +1,4 @@
-# remediacao-em-massa-viaKQL
+# Remediacao-em-massa-viaKQL
 Remediação em massa para busca avançada em KQL
 Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
 
