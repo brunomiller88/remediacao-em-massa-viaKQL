@@ -18,7 +18,6 @@ Procedimento Utilizado
 Acesse Caça Avançada (Advanced Hunting) no portal do Defender.
 ## Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
 
-## Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender
 
 ![Ações em Massa via Caça Avançada (Advanced Hunting) no Microsoft Defender](https://raw.githubusercontent.com/brunomiller88/remediacao-em-massa-viaKQL/main/busca%20avan%C3%A7ada001.png)
 
